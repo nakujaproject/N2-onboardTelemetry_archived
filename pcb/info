@@ -1,0 +1,131 @@
+{
+  "uuid": "e78dc15a324aee49be4d4aad9797b541",
+  "path": "Offline/N2onboardTelemetry",
+  "name": "N2onboardTelemetry",
+  "content": "",
+  "created_at": "2022-01-05 14:29:38",
+  "updated_at": "2022-01-06 12:08:28",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "808ad6901b4da812b8ac274357c9a8cc",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "4dac953bd1be48ffa3fd3e87b7786ecb": 1,
+        "3d033fcb6d334c25b65a754834cf5aaf": 1,
+        "923ac6d65460475c84b7be6679e45c6c": 1,
+        "8338b7fd59174455908892c7e3db5b6c": 1,
+        "6a880fe62790eec0357a4132b7a1e8e8": 1,
+        "4f3ab571bad286ee7cb84c878c7feb74": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "2.7pF",
+          1,
+          "C0402",
+          "C1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "FH",
+            "BOM_Manufacturer Part": "0402CG2R7C500NT",
+            "BOM_Supplier Part": "C1561",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "6a880fe62790eec0357a4132b7a1e8e8"
+          }
+        ],
+        [
+          "10uF",
+          1,
+          "C0603",
+          "C2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "SAMSUNG",
+            "BOM_Manufacturer Part": "CL10A106KP8NNNC",
+            "BOM_Supplier Part": "C19702",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "3d033fcb6d334c25b65a754834cf5aaf"
+          }
+        ],
+        [
+          "1N4148W_C81598",
+          3,
+          "SOD-123F_L2.7-W1.6-LS3.8-RD",
+          "D1,D2,D3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "SEMTECH",
+            "BOM_Manufacturer Part": "1N4148W",
+            "BOM_Supplier Part": "C81598",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "1ea2e7045b10400cba09c2b065998c9f",
+            "uuid": "4f3ab571bad286ee7cb84c878c7feb74"
+          }
+        ],
+        [
+          "1.8nH",
+          1,
+          "L0402",
+          "L1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "HK10051N8S-T",
+            "BOM_Manufacturer": "TAIYO YUDEN",
+            "BOM_Supplier Part": "C89157",
+            "puuid": "8da96988a9164ab09ca115e01caf2944",
+            "uuid": "8338b7fd59174455908892c7e3db5b6c"
+          }
+        ],
+        [
+          "RFM98-433S2",
+          1,
+          "WIRELM-SMD_RFM98-433S2",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C171661",
+            "BOM_Manufacturer": "HopeRF Micro-electronics",
+            "BOM_Manufacturer Part": "RFM98-433S2",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "81534ebc36fa493d94fd611e5643a636",
+            "uuid": "4dac953bd1be48ffa3fd3e87b7786ecb"
+          }
+        ],
+        [
+          "SMACONNECTOR_EDGE_UFL",
+          1,
+          "SMA_EDGELAUNCH_UFL",
+          "X1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "04da586678d04a489aa7c3aad3424681",
+            "uuid": "923ac6d65460475c84b7be6679e45c6c"
+          }
+        ]
+      ],
+      "updateTime": 1641460108,
+      "createTime": 1641382188,
+      "histories": [],
+      "created_at": "2022-01-05 14:29:48",
+      "updated_at": "2022-01-06 12:08:28"
+    }
+  ],
+  "sort": [],
+  "title": "N2onboardTelemetry",
+  "foldername": "N2onboardTelemetry",
+  "schfilename": "N2onboardTelemetry.json",
+  "schfilemtime": 1641460108510
+}
