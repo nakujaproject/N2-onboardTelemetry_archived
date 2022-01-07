@@ -4,7 +4,7 @@
   "name": "N2onboardTelemetry",
   "content": "",
   "created_at": "2022-01-05 14:29:38",
-  "updated_at": "2022-01-06 12:08:28",
+  "updated_at": "2022-01-07 23:39:43",
   "stick": "",
   "documents": [
     {
@@ -20,7 +20,12 @@
         "923ac6d65460475c84b7be6679e45c6c": 1,
         "8338b7fd59174455908892c7e3db5b6c": 1,
         "6a880fe62790eec0357a4132b7a1e8e8": 1,
-        "4f3ab571bad286ee7cb84c878c7feb74": 3
+        "4f3ab571bad286ee7cb84c878c7feb74": 3,
+        "3f69fb7874b2264b31c6cd70d022e987": 1,
+        "58557ab5dac544259249b4981dd6020c": 2,
+        "4ec8ce219c6fb605016a7afb45cbb00c": 2,
+        "353ff04a8071d3e6740fa5273965e20c": 2,
+        "13496764f83d55de6ee6c40c818f3731": 2
       },
       "BOM": [
         [
@@ -61,6 +66,21 @@
           }
         ],
         [
+          "22uF",
+          2,
+          "C1206",
+          "C3,C4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "CL31A226KPHNNNE",
+            "BOM_Manufacturer": "SAMSUNG",
+            "BOM_Supplier Part": "C5672",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "7bdec8012728462a85919a4d0d033579",
+            "uuid": "4ec8ce219c6fb605016a7afb45cbb00c"
+          }
+        ],
+        [
           "1N4148W_C81598",
           3,
           "SOD-123F_L2.7-W1.6-LS3.8-RD",
@@ -76,6 +96,21 @@
           }
         ],
         [
+          "Header-Male-2.54_1x4",
+          2,
+          "HDR-TH_4P-P2.54-V-M",
+          "H1,H2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "Ckmtw",
+            "BOM_Manufacturer Part": "210S-1*4P L=11.6MMGold-plated black",
+            "BOM_Supplier Part": "C124378",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "89f5280378144b629de4998ef974b6b8",
+            "uuid": "58557ab5dac544259249b4981dd6020c"
+          }
+        ],
+        [
           "1.8nH",
           1,
           "L0402",
@@ -87,6 +122,51 @@
             "BOM_Supplier Part": "C89157",
             "puuid": "8da96988a9164ab09ca115e01caf2944",
             "uuid": "8338b7fd59174455908892c7e3db5b6c"
+          }
+        ],
+        [
+          "WJ126V-5.0-2P",
+          1,
+          "CONN-TH_WJ126V-5.0-2P",
+          "P1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "WJ126V-5.0-2P",
+            "BOM_Supplier Part": "C8404",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "062b3c1ca40e463696708e6a448b475e",
+            "uuid": "3f69fb7874b2264b31c6cd70d022e987"
+          }
+        ],
+        [
+          "White light_C2290",
+          2,
+          "LED0603-R-RD_WHITE",
+          "POWER1,STATUS1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "KENTO",
+            "BOM_Manufacturer Part": "0603White light",
+            "BOM_Supplier Part": "C2290",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "af16510a196f45a3b2eecfb1ed8360c1",
+            "uuid": "353ff04a8071d3e6740fa5273965e20c"
+          }
+        ],
+        [
+          "330",
+          2,
+          "R0402",
+          "R8,R9",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "UniOhm",
+            "BOM_Manufacturer Part": "0402WGJ0331TCE",
+            "BOM_Supplier Part": "C12246",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "fafd024f554e426eb74cf4a204aa88b0",
+            "uuid": "13496764f83d55de6ee6c40c818f3731"
           }
         ],
         [
@@ -116,16 +196,16 @@
           }
         ]
       ],
-      "updateTime": 1641460108,
+      "updateTime": 1641587983,
       "createTime": 1641382188,
       "histories": [],
       "created_at": "2022-01-05 14:29:48",
-      "updated_at": "2022-01-06 12:08:28"
+      "updated_at": "2022-01-07 23:39:43"
     }
   ],
   "sort": [],
   "title": "N2onboardTelemetry",
   "foldername": "N2onboardTelemetry",
   "schfilename": "N2onboardTelemetry.json",
-  "schfilemtime": 1641460108510
+  "schfilemtime": 1641587983522
 }
